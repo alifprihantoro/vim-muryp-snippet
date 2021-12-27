@@ -1,1 +1,1 @@
-# snippet yang saya gunakan di nvim
+[#](#) snippet yang saya gunakan di nvim
